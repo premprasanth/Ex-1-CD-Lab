@@ -82,7 +82,9 @@ int main() {
 
 # OUTPUT :
 
-<img width="570" height="374" alt="Screenshot 2025-09-15 105329" src="https://github.com/user-attachments/assets/897670c0-c9d7-40b8-bea5-892bf675ba8e" />
+<img width="1025" height="590" alt="Screenshot 2025-09-15 111909" src="https://github.com/user-attachments/assets/0d3bc666-92f4-4281-b62b-0952c199331b" />
+
+![WhatsApp Image 2025-09-15 at 11 19 32 AM](https://github.com/user-attachments/assets/db2bf7f8-6dc4-4158-9710-7838e0c80122)
 
 
 
